@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OnboardWithTAP
+build_property.RootNamespace = OnboardWithTAP
+build_property.ProjectDir = C:\Install\Novatis\VerifiedID\active-directory-verifiable-credentials-dotnet\5-onboard-with-tap\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Install\Novatis\VerifiedID\active-directory-verifiable-credentials-dotnet\5-onboard-with-tap
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Install/Novatis/VerifiedID/active-directory-verifiable-credentials-dotnet/5-onboard-with-tap/Views/Employee/Onboarding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcT25ib2FyZGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Install/Novatis/VerifiedID/active-directory-verifiable-credentials-dotnet/5-onboard-with-tap/Views/Employee/RegisterNewHire.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcUmVnaXN0ZXJOZXdIaXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Install/Novatis/VerifiedID/active-directory-verifiable-credentials-dotnet/5-onboard-with-tap/Views/Guest/Onboarding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RcT25ib2FyZGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Install/Novatis/VerifiedID/active-directory-verifiable-credentials-dotnet/5-onboard-with-tap/Views/Guest/Reverify.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RcUmV2ZXJpZnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Install/Novatis/VerifiedID/active-directory-verifiable-credentials-dotnet/5-onboard-with-tap/Views/Guest/TrustedPartners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RcVHJ1c3RlZFBhcnRuZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Install/Novatis/VerifiedID/active-directory-verifiable-credentials-dotnet/5-onboard-with-tap/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Install/Novatis/VerifiedID/active-directory-verifiable-credentials-dotnet/5-onboard-with-tap/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Install/Novatis/VerifiedID/active-directory-verifiable-credentials-dotnet/5-onboard-with-tap/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Install/Novatis/VerifiedID/active-directory-verifiable-credentials-dotnet/5-onboard-with-tap/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Install/Novatis/VerifiedID/active-directory-verifiable-credentials-dotnet/5-onboard-with-tap/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Install/Novatis/VerifiedID/active-directory-verifiable-credentials-dotnet/5-onboard-with-tap/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Install/Novatis/VerifiedID/active-directory-verifiable-credentials-dotnet/5-onboard-with-tap/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Install/Novatis/VerifiedID/active-directory-verifiable-credentials-dotnet/5-onboard-with-tap/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dpp7yqqf7y
